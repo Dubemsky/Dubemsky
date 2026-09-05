@@ -1,4 +1,4 @@
-# Hi, I'm Chidubem 👋
+# Hi, I'm Dubem 👋
 
 I'm a Software Engineer based in Dublin. I spend my days building backend systems and, lately, features powered by large language models — the kind of work where the interesting problems are in the data, not just the code.
 
